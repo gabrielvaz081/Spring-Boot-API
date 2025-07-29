@@ -2,7 +2,7 @@
   <h1 style="border-bottom:none">Playlist: Criando APIs com Spring Boot</h1>
   <p>Instrutor: Ralf Schweder de Lima</p>
   
-  <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ">
+  <a href="https://www.youtube.com/channel/UCtT934GO9Y7hoFPR_vmV5zQ](https://www.youtube.com/playlist?list=PLWXw8Gu52TRI0usqoSTLrioF6NPp-3msb">
      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
