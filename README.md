@@ -8,7 +8,7 @@
   
   <br>
   <br>
-  <p>Repositório destinado aos arquivos desenvolvidos durante o aprendizado do curso de Criando APIs com Spring Boot do canal Ralf Lima</p>
+  <p>Repositório destinado aos arquivos desenvolvidos durante o aprendizado do curso de Criando APIs com Spring Boot, do canal Ralf Lima.</p>
   <br>
   <div align="justify">
   <h3>Tópicos aprendidos:</h3>
